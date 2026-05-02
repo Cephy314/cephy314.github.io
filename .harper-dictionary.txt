@@ -2,3 +2,6 @@ CFX
 CitizenFX
 FiveM
 RedM
+TeamSpeak
+fi
+helmed
